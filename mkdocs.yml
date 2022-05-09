@@ -1,5 +1,5 @@
 site_name: Ventures by Calfee
-site_url: https://calfee.gitlab.io
+site_url: "https://calfee.gitlab.io"
 site_dir: public
 
 markdown_extensions:
