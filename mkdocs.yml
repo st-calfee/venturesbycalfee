@@ -1,3 +1,13 @@
 site_name: Ventures by Calfee
 site_url: https://calfee.gitlab.io
 site_dir: public
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+theme:
+  name: material
+  palette:
+    primary: blue grey
+    accent: teal
